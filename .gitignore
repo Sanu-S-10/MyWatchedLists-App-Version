@@ -37,7 +37,11 @@ pnpm-debug.log*
 expo-env.d.ts
 *.expo-shared/
 
-# Android build artifacts & machine-specific configs
+# Android & iOS generated folders & build artifacts
+android/
+*/android/
+ios/
+*/ios/
 local.properties
 */local.properties
 .gradle/
