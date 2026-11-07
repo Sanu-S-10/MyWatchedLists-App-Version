@@ -1,0 +1,67 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment variables & secrets (preserve .env.example templates)
+.env
+.env.*
+!.env.example
+*.env
+*.env.local
+*.env.*.local
+!*.env.example
+
+# Production & Build outputs
+dist/
+build/
+web-build/
+out/
+depcheck_result.txt
+fallback_results.txt
+*.tsbuildinfo
+*.jsbundle
+
+# Logs & Temporary files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Expo & EAS
+.expo/
+*/.expo/
+.eas/
+*/.eas/
+expo-env.d.ts
+*.expo-shared/
+
+# Android build artifacts & machine-specific configs
+local.properties
+*/local.properties
+.gradle/
+*/.gradle/
+.cxx/
+*/.cxx/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+*.hprof
+*.iml
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.idea/
+*.swp
+*.swo
+.vscode/
+*/.vscode/

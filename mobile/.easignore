@@ -1,0 +1,15 @@
+# Dependencies & local caches
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+
+# Native folders (EAS Cloud prebuilds fresh on Linux)
+android/
+ios/
+
+# System & temporary caches
+*.tsbuildinfo
+.DS_Store
+Thumbs.db

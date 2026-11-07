@@ -1,0 +1,25 @@
+{
+  "name": "mywatchedlist-mobile",
+  "version": "1.0.0",
+  "description": "MyWatchedLists Android Mobile Application & Backend API",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "concurrently \"npm run backend\" \"npm run mobile\"",
+    "backend": "npm run dev --prefix backend",
+    "mobile": "npm run start --prefix mobile",
+    "mobile:android": "npm run android --prefix mobile",
+    "install:all": "npm install && npm install --prefix backend && npm install --prefix mobile"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "android",
+    "mywatchedlists"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
