@@ -1,8 +1,10 @@
 # MyWatchedList 🎬
 
-A full-stack web application for tracking and managing your watched movies, TV series, anime, and animations. Keep track of what you've watched, rate your favorites, and explore new content with integrated TMDB data.
+A full-stack application for tracking and managing your watched movies, TV series, anime, and animations across web and mobile. Keep track of what you've watched, rate your favorites, and explore new content with integrated TMDB data.
 
-🌐 **Live Demo:** [https://my-watched-lists.vercel.app](https://my-watched-lists.vercel.app)
+📱 **Android App (APK):** [Download Latest APK (v1.0.3)](https://expo.dev/artifacts/eas/1DNgxcx48G645_WdqwVqWCRRl0g2PWCuxUsHy_xvHa4.apk)  
+🌐 **Web App:** [https://my-watched-lists.vercel.app](https://my-watched-lists.vercel.app)  
+🚀 **EAS Cloud Build:** [Build #9cb16262](https://expo.dev/accounts/sanu-s-10/projects/mywatchedlists/builds/9cb16262-0ee7-42b0-9c9c-309a77f04386)
 
 > **Note:** This project was vibe coded - built with creativity, flow, and passion! 🚀
 

@@ -4,6 +4,12 @@ A genuine, installable Android mobile application built with **React Native**, *
 
 ---
 
+### 📥 Download & Install
+- 📲 **Download Latest Android APK (v1.0.3)**: [Direct APK Download](https://expo.dev/artifacts/eas/1DNgxcx48G645_WdqwVqWCRRl0g2PWCuxUsHy_xvHa4.apk)
+- 🚀 **EAS Build Page & Logs**: [Expo EAS Build #9cb16262](https://expo.dev/accounts/sanu-s-10/projects/mywatchedlists/builds/9cb16262-0ee7-42b0-9c9c-309a77f04386)
+
+---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Framework**: React Native with Expo SDK 58 & Expo Router
